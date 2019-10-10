@@ -1,0 +1,6 @@
+ ¿Que es algoritmos:?
+Conjunto ordenado de operaciones sistemáticas que permite hacer un cálculo y hallar la solución 
+de un tipo de problemas
+
+¿Elementos de los lenguajes de programacion:?
+Son las palabras validas:do,for,if,else,int,float
